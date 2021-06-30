@@ -3,7 +3,7 @@
 ![Bot architecture](architecture/slackbot.png)
 
 ## Medium article
-The documentation for the code in this repository is in my [medium article](https://github.com/cazabec/slackbot-aws-lambda/blob/997dc5dbc070695110524b7d59f61ba9f5e0c153/lambda/oauth2.py)
+The documentation for the code in this repository is in my [medium article](https://medium.com/@colin.cazabet/create-and-distribute-a-slack-bot-with-python-and-aws-in-1-hour-41c4a6c0f99d)
 
 ## Lambdas
 
