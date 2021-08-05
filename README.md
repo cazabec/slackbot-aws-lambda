@@ -4,7 +4,7 @@
 
 ## Inspiration
 
-This project is in production on the [techcareergrowth.slack.com](techcareergrowth.slack.com) slack workspace (2.6K users)
+This project is in production on the [techcareergrowth.slack.com](https://techcareergrowth.slack.com) slack workspace (2.6K users)
 The goal of this project was to do a bot that would reply automatically with tips when someone posts his resume in the #resume-sharing-and-reviews channel.
 
 ## Medium article
